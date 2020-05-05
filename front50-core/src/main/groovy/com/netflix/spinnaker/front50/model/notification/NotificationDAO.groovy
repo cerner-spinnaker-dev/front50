@@ -22,6 +22,7 @@ interface NotificationDAO {
     'bearychat',
     'email',
     'googlechat',
+    'microsoftteams',
     'hipchat',
     'pubsub',
     'slack',
