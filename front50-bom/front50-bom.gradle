@@ -20,7 +20,6 @@ javaPlatform {
   allowDependencies()
 }
 
-
 dependencies {
   api(platform("com.netflix.spinnaker.kork:kork-bom:$korkVersion"))
 
